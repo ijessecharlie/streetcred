@@ -6,4 +6,8 @@ Many two-factor authentication methods are proprietary. We create a program to m
 Supported services:
 -  DUO by Cisco
 
+Supported methods:
+- Release 1.0: Virtual Android
+- Release 1.1: Virtual Security Key
+
 Code will be available soon.
