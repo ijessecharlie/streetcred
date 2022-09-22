@@ -10,8 +10,13 @@ Supported methods:
 - Release 1.0: Virtual Android: Duo Push and Passcode emulation
 - Release 1.1: Virtual Security Key
 
-Supported user UI:
-- Release 1.0: Command line: Win, Mac, Linux
-- Release 1.1: GUI App: Win, Mac, iOS, Android, Linux
+Supported targets:
+- Release 1.0: CLI App: Windows, macOS, Linux
+- Release 1.1: GUI App: Windows, macOS, Linux; iOS, iPadOS, watchOS, Android
 
-Code will be available soon, it must pass our security standards to be published.
+Code will be available soon. We are currently performing security audits on the code.
+
+Security updates lifecycle:
+- Release 1.x: January 1, 2023
+
+Note: Security update timelines will be extended by a minimum of a semester at a time if the next major update did not release yet.
