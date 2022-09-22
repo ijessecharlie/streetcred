@@ -3,6 +3,8 @@
 School. Work. It seems everywhere you go you need two-factor authentication.
 Many two-factor authentication methods are proprietary. We create a program to manage proprietary two-factor authentication in an open manner.
 
+---
+
 Supported services:
 - Release 1.0: DUO by Cisco
 
@@ -15,6 +17,8 @@ Supported targets:
 - Release 1.1: GUI App: Windows, macOS, Linux; iOS, iPadOS, watchOS, Android
 
 Code will be available soon. We are currently performing security audits on the code.
+
+---
 
 Security updates lifecycle:
 - Release 1.x: January 1, 2023
