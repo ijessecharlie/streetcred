@@ -12,6 +12,6 @@ Supported methods:
 
 Supported user UI:
 - Release 1.0: Command line: Win, Mac, Linux
-= Release 1.1: GUI App: Win, Mac, iOS, Android, Linux
+- Release 1.1: GUI App: Win, Mac, iOS, Android, Linux
 
 Code will be available soon.
