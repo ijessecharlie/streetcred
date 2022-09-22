@@ -7,7 +7,7 @@ Supported services:
 - Release 1.0: DUO by Cisco
 
 Supported methods:
-- Release 1.0: Virtual Android
+- Release 1.0: Virtual Android: Duo Push and Passcode emulation
 - Release 1.1: Virtual Security Key
 
 Supported user UI:
