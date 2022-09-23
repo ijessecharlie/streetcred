@@ -16,6 +16,9 @@ Supported targets:
 - Release 1.0: CLI App: Windows, macOS, Linux
 - Release 1.1: GUI App: Windows, macOS, Linux; iOS, iPadOS, watchOS, Android
 
+Implementation:
+- Release 1.0: Python 3, Rust
+
 Code will be available soon. We are currently performing security audits on the code.
 
 ---
