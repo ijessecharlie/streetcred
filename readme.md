@@ -6,7 +6,7 @@ Many two-factor authentication methods are proprietary. We create a program to m
 ---
 
 Supported services:
-- Release 1.0: DUO by Cisco
+- Release 1.0: DUO by Cisco, Microsoft Authenticator
 
 Supported methods:
 - Release 1.0: Virtual Android: Duo Push and Passcode emulation
