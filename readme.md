@@ -19,11 +19,7 @@ Supported targets:
 Implementation:
 - Release 1.0: Python 3 (Standalone), Rust (Standalone)
 
-Code will be available soon. We are currently performing security audits on the code.
-
 ---
 
 Security updates lifecycle:
-- Release 1.x: January 1, 2023
-
-Note: Security update timelines will be extended by a minimum of a semester at a time if the next major update did not release yet.
+- Release 1.x: March 1, 2023
